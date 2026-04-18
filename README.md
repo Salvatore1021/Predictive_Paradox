@@ -1,4 +1,4 @@
-# 🔮 Predictive Paradox: Short-Term Electricity Demand Forecasting
+#  Predictive Paradox: Short-Term Electricity Demand Forecasting
 
 ## 📌 Project Overview
 
@@ -19,7 +19,7 @@ Accurate electricity demand forecasting is critical for power grid stability and
 ├── requirements.txt                   # Environment dependencies
 ├── README.md                          # Project Structure and Setup
 └── summary.ipynb                      # Project documentation
-
+```
 ## 🚀 Setup & Installation
 
 ### Step 1: Navigate to the project root directory
