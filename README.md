@@ -1,7 +1,8 @@
-# Predictive Paradox: Short-Term Electricity Demand Forecasting
+# 🔮 Predictive Paradox: Short-Term Electricity Demand Forecasting
 
 ## 📌 Project Overview
-Accurate electricity demand forecasting is critical for power grid stability and efficient energy management. This repository contains a robust classical machine learning pipeline designed to predict the short-term power demand (next hour's `demand_mw`) on a national grid based on historical consumption, environmental factors, and macroeconomic indicators. 
+
+Accurate electricity demand forecasting is critical for power grid stability and efficient energy management. This repository contains a robust classical machine learning pipeline designed to predict the short-term power demand (next hour's `demand_mw`) on a national grid based on historical consumption, environmental factors, and macroeconomic indicators.
 
 ## 📂 Repository Structure
 ```text
@@ -21,21 +22,26 @@ Accurate electricity demand forecasting is critical for power grid stability and
 
 ## 🚀 Setup & Installation
 
-**1. Navigate to the project root directory**
+### Step 1: Navigate to the project root directory
 ```bash
 cd path/to/Predictive_Paradox
 ```
 
+### Step 2: Create and activate virtual environment
+
+**On Windows:**
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
+**On macOS/Linux:**
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
+### Step 3: Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
