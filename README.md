@@ -90,7 +90,7 @@ Analyzing the XGBoost decision pathways revealed what truly drives grid demand:
 
 ## 🚀 Setup & Installation
 ### Step 1: Navigate to the project root directory
-
+```
 ```bash
 
 cd path/to/Predictive_Paradox
